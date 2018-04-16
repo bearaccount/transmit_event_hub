@@ -1,0 +1,11 @@
+C:\docs\CODE\dotcore-event-hub-send\EventHubSend\EventHubSend\bin\Debug\netcoreapp2.0\EventHubSend.deps.json
+C:\docs\CODE\dotcore-event-hub-send\EventHubSend\EventHubSend\bin\Debug\netcoreapp2.0\EventHubSend.runtimeconfig.json
+C:\docs\CODE\dotcore-event-hub-send\EventHubSend\EventHubSend\bin\Debug\netcoreapp2.0\EventHubSend.runtimeconfig.dev.json
+C:\docs\CODE\dotcore-event-hub-send\EventHubSend\EventHubSend\bin\Debug\netcoreapp2.0\EventHubSend.dll
+C:\docs\CODE\dotcore-event-hub-send\EventHubSend\EventHubSend\obj\Debug\netcoreapp2.0\EventHubSend.csprojResolveAssemblyReference.cache
+C:\docs\CODE\dotcore-event-hub-send\EventHubSend\EventHubSend\obj\Debug\netcoreapp2.0\EventHubSend.csproj.CoreCompileInputs.cache
+C:\docs\CODE\dotcore-event-hub-send\EventHubSend\EventHubSend\obj\Debug\netcoreapp2.0\EventHubSend.AssemblyInfoInputs.cache
+C:\docs\CODE\dotcore-event-hub-send\EventHubSend\EventHubSend\obj\Debug\netcoreapp2.0\EventHubSend.AssemblyInfo.cs
+C:\docs\CODE\dotcore-event-hub-send\EventHubSend\EventHubSend\bin\Debug\netcoreapp2.0\EventHubSend.pdb
+C:\docs\CODE\dotcore-event-hub-send\EventHubSend\EventHubSend\obj\Debug\netcoreapp2.0\EventHubSend.dll
+C:\docs\CODE\dotcore-event-hub-send\EventHubSend\EventHubSend\obj\Debug\netcoreapp2.0\EventHubSend.pdb
